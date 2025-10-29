@@ -1,16 +1,38 @@
-## Hi there 👋
+### 👋 Hi, I'm CyberHerbert  
 
-<!--
-**Cyber-Herbert/Cyber-Herbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Security researcher**  
+15+ years in vulnerability research and discovery  
+`PHP` • `SQL` • `JavaScript` • `Python` • `C#` • `Rust learner`  
+*Focused on responsible and practical security.*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔍 About
+I’ve been exploring security flaws and reporting vulnerabilities responsibly for over 15 years.  
+My work focuses on understanding how systems fail — and helping others make them stronger.  
+Most of my repositories are private, shared selectively for coordinated disclosure and research purposes.
+
+---
+
+#### ⚙️ Skills & Interests
+- Vulnerability discovery & analysis  
+- Secure software development  
+- Web application & API security  
+- Code review & exploit mitigation  
+- Continuous learning — currently improving in Rust 🦀  
+
+---
+
+#### 🧰 Toolbox
+Languages: `PHP`, `SQL`, `JavaScript`, `Python`, `C#`, `Rust`  
+Domains: `Web Security`, `Application Hardening`, `Bug Hunting`, `Responsible Disclosure`
+
+---
+
+#### 📫 Contact
+Feel free to reach out via GitHub issues or discussions if your topic relates to security research or coordinated vulnerability disclosure.
+
+---
+
+> _"Breaking things to make them safer."_  
+> — CyberHerbert
